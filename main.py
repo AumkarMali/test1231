@@ -27,4 +27,4 @@ async def ban(ctx, member : discord.Member, *, reason=None):
     await ctx.send(f'{member.mention} was banned.')
 
 
-client.run('ODA0NDUzNjg2Njc1MTExOTY4.YBMj4A.Ax6KoPatSD_Frl3FEL3mBK1ESrQ')
+client.run('Enter API key / token')
